@@ -1,7 +1,3 @@
-Claro, Gabi! Abaixo está um **Documento de Requisitos de Software (DRS)** completo e bem estruturado para uma aplicação fictícia chamada **TODO**, feita em **FastAPI**.
-
----
-
 # **Documento de Requisitos de Software (DRS)**
 
 ## Aplicação: TODO – Gerenciador de Tarefas
