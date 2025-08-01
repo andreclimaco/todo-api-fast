@@ -16,5 +16,6 @@ plugins:
 
 nav:
   - Requisitos: requisitos.md
-  - Início: index.md
+  - Instalação: index.md
+  - Endpoints: endpoints.md
   - API: autoapi.md
