@@ -15,5 +15,6 @@ plugins:
             show_root_full_path: false
 
 nav:
+  - Requisitos: requisitos.md
   - Início: index.md
   - API: autoapi.md
