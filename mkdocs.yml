@@ -4,6 +4,7 @@ repo_url: https://github.com/andreclimaco/todo-api-fast
 site_url: https://andreclimaco.github.io/todo-api-fast/
 theme:
   name: material
+  language: pt-BR
   icon:
     repo: fontawesome/brands/github
 plugins:
