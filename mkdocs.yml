@@ -6,8 +6,6 @@ theme:
   name: material
   icon:
     repo: fontawesome/brands/github
-
-
 plugins:
   - search
   - mkdocstrings:
@@ -25,7 +23,6 @@ plugins:
       branch: main
   - git-authors
 nav:
-  - Requisitos: requisitos.md
-  - Instalação: index.md
+  - index.md
   - Endpoints: endpoints.md
   - API: autoapi.md
