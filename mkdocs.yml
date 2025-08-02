@@ -7,6 +7,8 @@ theme:
   language: pt-BR
   icon:
     repo: fontawesome/brands/github
+  features:
+    - navigation.tabs
 plugins:
   - search
   - mkdocstrings:
