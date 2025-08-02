@@ -18,6 +18,7 @@ plugins:
             show_root_heading: true
             show_root_full_path: false
   - git-revision-date-localized:
+      locale: pt_BR
       enable_creation_date: true
 nav:
   - Requisitos: requisitos.md
