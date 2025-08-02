@@ -23,7 +23,7 @@ jobs:
 
       - name: Instalar dependências
         run: |
-          pip install mkdocs-material mkdocstrings[python] mkdocs-git-revision-date-localized-plugin mkdocs-git-committers-plugin-2
+          pip install mkdocs-material mkdocstrings[python] mkdocs-git-revision-date-localized-plugin mkdocs-git-committers-plugin-2 mkdocs-git-authors-plugin
 
       - name: Gerar e publicar documentação
         run: mkdocs gh-deploy --force

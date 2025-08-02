@@ -23,6 +23,7 @@ plugins:
   - git-committers:
       repository: andreclimaco/todo-api-fast
       branch: main
+  - git-authors
 nav:
   - Requisitos: requisitos.md
   - Instalação: index.md
