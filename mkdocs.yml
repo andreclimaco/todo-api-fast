@@ -27,6 +27,6 @@ plugins:
       branch: main
   - git-authors
 nav:
-  - index.md
+  - Página inicial: index.md
   - Endpoints: endpoints.md
   - API: autoapi.md
